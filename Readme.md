@@ -20,6 +20,7 @@ Foi criado o melhor e mais maravilhoso gerador de senhas do mundo.
 - JavaScript
 - Node.js
 - Vite
+- Clipboard-copy
 
 
 
