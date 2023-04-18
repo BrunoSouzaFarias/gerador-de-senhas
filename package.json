@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/BrunoSouzaFarias/gerador-de-senhas/issues"
   },
-  "homepage": "https://github.com/BrunoSouzaFarias/gerador-de-senhas#readme"
+  "homepage": "https://github.com/BrunoSouzaFarias/gerador-de-senhas#readme",
+  "dependencies": {
+    "nanoid": "^4.0.2"
+  },
+  "type": "module"
 }
