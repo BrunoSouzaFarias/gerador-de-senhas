@@ -1,0 +1,20 @@
+{
+  "name": "gerador-de-senhas",
+  "version": "1.0.0",
+  "description": "Melhot gerador de senhas seguras do mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoSouzaFarias/gerador-de-senhas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoSouzaFarias/gerador-de-senhas/issues"
+  },
+  "homepage": "https://github.com/BrunoSouzaFarias/gerador-de-senhas#readme"
+}
